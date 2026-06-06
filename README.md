@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debangi</h1>
-<h3 align="center">A Mathematics and Computing Junior from IIT BHU, Varanasi</h3>
+<h3 align="center">A Mathematics and Computing 4th year undergraduate from IIT BHU, Varanasi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debangi29&label=Profile%20views&color=0e75b6&style=flat" alt="debangi29" /> </p>
 
